@@ -25,4 +25,3 @@ A real-time task notification system built with **FastAPI**, **Socket.IO**, and 
 
 ---
 
-## 📁 Project Structure
